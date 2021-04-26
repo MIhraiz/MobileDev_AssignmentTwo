@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="cv_demo">CV demo</string>
+    <string name="next">Next</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="personal_inage">Personal Inage</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="nickname">Nickname</string>
+    <string name="hobby">Hobby</string>
+    <string name="email">Email</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="education">Education</string>
+    <string name="previous">Previous</string>
+    <string name="talk_about_your_education">Talk About Your Education</string>
+    <string name="talk_about_your_work_experience">Talk About Your Work Experience</string>
+
+</resources>
